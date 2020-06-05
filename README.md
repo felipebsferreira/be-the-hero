@@ -3,10 +3,10 @@
 </h1>
 
 <h1 align="center">
-    <img src="frontend/src/assets/heroes.png">
+    <img src="frontend/src/assets/Kapture_2020-06-04_at_21.22.50.gif">
 </h1>
 
-<h3>
+<h3 align="center">
     <a href="#">Acessar a demonstração</a>
 </h3>
 
@@ -37,6 +37,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [NodeJS](https://nodejs.org/)
 - [Axios](https://github.com/axios/axios)
 - [SQLite](https://www.sqlite.org/index.html)
+- [KnexJS](http://knexjs.org)
+- [Expo](https://expo.io)
 
 ---
 
@@ -45,18 +47,54 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```bash
 # Clonar o repositório
 $ git clone https://github.com/felipebsferreira/be-the-hero
+```
 
+### Rodar a API
+
+```bash
 # Entrar no diretório do backend
-$ cd be-the-hero
-$ cd backend
+$ cd be-the-hero/backend
 
 # Instalar as dependências do backend
 $ yarn install
+
+# Instalar o KnexJS para executar as migrations do banco de dados
+$ npm install knex -g
 
 # Iniciar a API do backend
 $ yarn start
 ```
 
+### Acessar o Frontend da aplicação
+
+```bash
+# Entrar no diretório do frontend
+$ cd ..
+$ cd frontend
+
+# Instalar as dependências do frontend
+$ yarn install
+
+# Iniciar o frontend
+$ yarn start
+
+```
+
+### Acessar a aplicação mobile
+
+```bash
+# Entrar no diretório da aplicação mobile
+$ cd ..
+$ cd mobile
+
+# Instalar as dependências da aplicação mobile
+$ yarn install
+
+# Iniciar a aplicação via expo
+$ expo start
+
+# Com seu smartphone, aponte a câmera para o QR code que irá aparecer no seu browser
+```
 ---
 
 Desenvolvido por Felipe Alberto B. S. Ferreira
