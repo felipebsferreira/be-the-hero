@@ -2,9 +2,9 @@
     <img src="frontend/src/assets/logo.svg">
 </h1>
 
-<!-- <h1 align="center">
-    <img src="frontend/src/assets/Kapture_2020-06-04_at_21.22.50.gif">
-</h1> -->
+<h1 align="center">
+    <img width="70%" src="frontend/src/assets/heroes.png">
+</h1>
 
 <!-- <h3 align="center">
     <a href="#">Acessar a demonstração</a>
@@ -16,6 +16,7 @@
 - [Lista das Tecnologias Utilizadas](#-lista-das-tecnologias-utilizadas)
 - [Como baixar e rodar o projeto](#-como-baixar-e-rodar-o-projeto)
 
+
 ## 📝 Sobre
 
 O projeto **Be The Hero** é um sistema de doação para ONGs que foi criado durante a **Semana Omnistack 11** da [Rocketseat](https://rocketseat.com.br).
@@ -25,6 +26,7 @@ O sistema inclui uma **API** no **backend**, desenvolvido em [NodeJS](https://no
 O **frontend** da aplicação foi desenvolvido com [ReactJS](https://reactjs.org) e a comunicação com a **API** do **backend** foi feita com [Axios](https://github.com/axios/axios).
 
 Também foi desenvolvida uma aplicação **mobile** com [React Native](https://reactnative.dev) que também se comunica com o **backend** por meio do *Axios*.
+
 
 ## 🛠 Lista das Tecnologias Utilizadas
 
@@ -37,6 +39,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [SQLite](https://www.sqlite.org/index.html)
 - [KnexJS](http://knexjs.org)
 - [Expo](https://expo.io)
+
 
 ## 📦 Como baixar e rodar o projeto
 
