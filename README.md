@@ -2,14 +2,14 @@
     <img src="frontend/src/assets/logo.svg">
 </h1>
 
-<h1 align="center">
+<!-- <h1 align="center">
     <img src="frontend/src/assets/Kapture_2020-06-04_at_21.22.50.gif">
-</h1>
+</h1> -->
 
-<h3 align="center">
+<!-- <h3 align="center">
     <a href="#">Acessar a demonstração</a>
-</h3>
-asd
+</h3> -->
+
 # Indice
 
 - [Sobre](#-sobre)
