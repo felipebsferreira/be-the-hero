@@ -10,10 +10,10 @@
     <a href="#">Acessar a demonstração</a>
 </h3> -->
 
-# Indice
+# 🗂 Indice
 
 - [Sobre](#-sobre)
-- [Resumo das Tecnologias Utilizadas](#-resumo-das-tecnologias-utilizadas)
+- [Lista das Tecnologias Utilizadas](#-lista-das-tecnologias-utilizadas)
 - [Como baixar e rodar o projeto](#-como-baixar-e-rodar-o-projeto)
 
 ## 📝 Sobre
@@ -26,9 +26,7 @@ O **frontend** da aplicação foi desenvolvido com [ReactJS](https://reactjs.org
 
 Também foi desenvolvida uma aplicação **mobile** com [React Native](https://reactnative.dev) que também se comunica com o **backend** por meio do *Axios*.
 
----
-
-## 🛠 Resumo das Tecnologias Utilizadas
+## 🛠 Lista das Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -39,8 +37,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [SQLite](https://www.sqlite.org/index.html)
 - [KnexJS](http://knexjs.org)
 - [Expo](https://expo.io)
-
----
 
 ## 📦 Como baixar e rodar o projeto
 
@@ -95,6 +91,6 @@ $ expo start
 
 # Com seu smartphone, aponte a câmera para o QR code que irá aparecer no seu browser
 ```
----
 
+---
 Desenvolvido por Felipe Alberto B. S. Ferreira
