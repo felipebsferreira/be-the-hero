@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img width="50%" src="assets/kapture.gif">
+    <img width="70%" src="assets/kapture.gif">
 </h1>
 
 <!-- <h3 align="center">
