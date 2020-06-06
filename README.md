@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img width="50%" src="frontend/src/assets/heroes.png">
+    <img width="50%" src="assets/kapture.gif">
 </h1>
 
 <!-- <h3 align="center">
@@ -59,6 +59,9 @@ $ yarn install
 
 # Instalar o KnexJS para executar as migrations do banco de dados
 $ npm install knex -g
+
+# Executar as migrations para criar o banco de dados
+knex migrate:latest
 
 # Iniciar a API do backend
 $ yarn start
